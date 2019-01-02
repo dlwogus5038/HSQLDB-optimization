@@ -1,0 +1,10 @@
+INDEX VERSION 1.130+C:\hsqldb\.metadata\.plugins\org.eclipse.jdt.core
+3755109416.index
+83036538.index
+935657104.index
+3146311659.index
+3321855380.index
+2452728352.index
+3395068609.index
+3876319291.index
+3143136983.index

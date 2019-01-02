@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>hsqldb</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>classes</name>
+			<type>2</type>
+			<location>C:/Users/dlwog/Desktop/수업자료/3학년 2학기/计算机系统软件（2）/前八周/hsqldb-2.4.0/hsqldb-2.4.0/hsqldb/classes</location>
+		</link>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<location>C:/Users/dlwog/Desktop/수업자료/3학년 2학기/计算机系统软件（2）/前八周/hsqldb-2.4.0/hsqldb-2.4.0/hsqldb/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
